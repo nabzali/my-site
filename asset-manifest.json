@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/my-site/static/css/main.d2e8a8e7.css",
-    "main.js": "/my-site/static/js/main.5c768b59.js",
+    "main.css": "/my-site/static/css/main.9fd47ce7.css",
+    "main.js": "/my-site/static/js/main.d34ab9aa.js",
     "static/media/hacker-avatar.jpg": "/my-site/static/media/hacker-avatar.1f769197cb90c64eaa32.jpg",
     "index.html": "/my-site/index.html",
-    "main.d2e8a8e7.css.map": "/my-site/static/css/main.d2e8a8e7.css.map",
-    "main.5c768b59.js.map": "/my-site/static/js/main.5c768b59.js.map"
+    "main.9fd47ce7.css.map": "/my-site/static/css/main.9fd47ce7.css.map",
+    "main.d34ab9aa.js.map": "/my-site/static/js/main.d34ab9aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2e8a8e7.css",
-    "static/js/main.5c768b59.js"
+    "static/css/main.9fd47ce7.css",
+    "static/js/main.d34ab9aa.js"
   ]
 }
