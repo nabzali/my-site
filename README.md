@@ -1,5 +1,3 @@
-# Welcome to my Personal GitHub!
-
 ## About Me
 
 - 💻 Software Developer & Technical Consultant
