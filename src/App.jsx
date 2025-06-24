@@ -9,7 +9,7 @@ import SocialMedia from "./SocialMedia";
 import Accreditations from "./Accreditations";
 import Skills from "./Skills";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faDownload, faCircleRight } from "@fortawesome/free-solid-svg-icons";
+import { faCircleRight } from "@fortawesome/free-solid-svg-icons";
 import avatar from "./assets/hacker-avatar.jpg";
 import "animate.css";
 import Contact from "./Contact";
