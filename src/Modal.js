@@ -27,7 +27,7 @@ const Modal = ({ modalData, handleClose }) => {
     job1: [
       "Junior Software Developer",
       "Mazepoint",
-      "Web Dev, .NET, Powershell",
+      "Angular, .NET Web API, Powershell",
     ],
   };
 
