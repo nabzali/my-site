@@ -75,10 +75,10 @@ function App() {
               </h2>
               <h2>Welcome to my Personal Website...</h2>
               <div class="optionBtns">
-                <a class="btn-b btn-long btn-light" id="download-cv" href="/CV.pdf" download>
+                {/* <a class="btn-b btn-long btn-light" id="download-cv" href="/CV.pdf" download>
                   Download CV
                   <FontAwesomeIcon icon={faDownload} />
-                </a>
+                </a> */}
                 <a class="btn-b btn-long btn-dark" id="next" href="#about">
                   Next Section
                   <FontAwesomeIcon icon={faCircleRight} />
